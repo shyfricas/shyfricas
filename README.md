@@ -1,12 +1,5 @@
 <img width="1000" height="300" alt="banner" src="https://github.com/user-attachments/assets/a2cc85de-421c-4b5f-8812-eb6a12f14a1b" />![Upl<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Shaliah Fricas — ur favorite engineer">
 
-<p align="center">
-  <a href="https://shyfricas.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-ffc93c?style=for-the-badge&labelColor=05070f&logo=github&logoColor=05070f" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/shaliahfricas"><img src="https://img.shields.io/badge/LINKEDIN-5a9bff?style=for-the-badge&labelColor=05070f&logo=linkedin&logoColor=05070f" alt="LinkedIn"></a>
-  <a href="mailto:shy.fricas30@gmail.com"><img src="https://img.shields.io/badge/EMAIL-34e1d4?style=for-the-badge&labelColor=05070f&logo=gmail&logoColor=05070f" alt="Email"></a>
-</p>
-
----
 
 ![Player Build](https://img.shields.io/badge/PLAYER_BUILD-5a9bff?style=for-the-badge&labelColor=05070f)
 
