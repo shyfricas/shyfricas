@@ -1,4 +1,5 @@
-<img width="1000" height="300" alt="banner" src="https://github.com/user-attachments/assets/a2cc85de-421c-4b5f-8812-eb6a12f14a1b" />!xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Shaliah Fricas — ur favorite engineer">
+<img width="1000" height="300" alt="banner" src="https://github.com/user-attachments/assets/a69d83c0-d875-43ac-a3d3-395267e383c3" />
+
 
 
 ![Player Build](https://img.shields.io/badge/PLAYER_BUILD-5a9bff?style=for-the-badge&labelColor=05070f)
